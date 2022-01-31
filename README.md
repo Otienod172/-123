@@ -11,3 +11,6 @@
  <h2>CYCLING CLAN</h2>
  </div>
  </div>
+   <footer = "footer">
+    <div ="container">
+     <div ="icons">
