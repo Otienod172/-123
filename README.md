@@ -15,5 +15,5 @@
     <div ="container">
      <div ="icons">
 <a href="mail to :otienod172@gmail.com">
-<i class ="fa fa envelopes" title="email">
-<i class ="fa fa github" title="github">
+<i class ="fa fa envelopes" title="email"></i>
+<i class ="fa fa github" title="github"></i>
