@@ -14,3 +14,5 @@
    <footer = "footer">
     <div ="container">
      <div ="icons">
+<a href="mail to :otienod172@gmail.com">
+ 
