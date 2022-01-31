@@ -2,13 +2,13 @@
 <DOCTYPE html>
 <html lang= "en">
 <head>
- <title>ROADSPIN WORRIORS/<title>
+ <title>DERRICK OTIENO/<title>
 </head>
   <body>
 <div class = "container fluid">
 <div class = "header">
- <h1>ROADSPIN WORRIORS</h1>
- <h2>CYCLING CLAN</h2>
+ <h1>style ="color:DERRICK OTIENO</h1>
+ <h2>TECH</h2>
  </div>
 </div>
    <footer = "footer">
