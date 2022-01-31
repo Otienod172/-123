@@ -18,5 +18,6 @@
  </a>
 <a href="https://github.com/otienod172">
             <i class="fa fa-github" title="Github"></i>
- </a>
+      </a>
+     </div>
 </body>
