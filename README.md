@@ -7,8 +7,8 @@
   <body>
 <div class = "container fluid">
 <div class = "header">
- <h1 style ="color:red">DERRICK OTIENO</h1>
- <h2 style ="color:red">TECH</h2>
+ <h1>DERRICK OTIENO</h1>
+ <h2>TECH</h2>
  </div>
 </div>
    <footer = "footer">
